@@ -1,0 +1,10 @@
+E:\Working Project\Reliance Automation\Reliance Automation\bin\Debug\Reliance Automation.exe.config
+E:\Working Project\Reliance Automation\Reliance Automation\bin\Debug\Reliance Automation.exe
+E:\Working Project\Reliance Automation\Reliance Automation\bin\Debug\Reliance Automation.pdb
+E:\Working Project\Reliance Automation\Reliance Automation\bin\Debug\Reliance Automation.xml
+E:\Working Project\Reliance Automation\Reliance Automation\obj\Debug\Reliance_Automation.frmscheduler.resources
+E:\Working Project\Reliance Automation\Reliance Automation\obj\Debug\Reliance_Automation.Resources.resources
+E:\Working Project\Reliance Automation\Reliance Automation\obj\Debug\Reliance Automation.vbproj.GenerateResource.Cache
+E:\Working Project\Reliance Automation\Reliance Automation\obj\Debug\Reliance Automation.exe
+E:\Working Project\Reliance Automation\Reliance Automation\obj\Debug\Reliance Automation.xml
+E:\Working Project\Reliance Automation\Reliance Automation\obj\Debug\Reliance Automation.pdb

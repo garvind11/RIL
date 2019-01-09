@@ -1,0 +1,8 @@
+localhost
+RIL
+sa
+stallion
+172.16.11.0
+51235
+1
+1000
